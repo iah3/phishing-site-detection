@@ -4,8 +4,8 @@
 - server has a custom crawler for scraping starting from source urls
 - extracts html and url based features prior to performing classification
 
-This readme file provides instructions to run three parts of the projects.
-We assume that this project is being run on Ubuntu 18.04 and has least the configuration of the VM.
+This readme file provides instructions to run three parts of the project.
+Assumption: run on Ubuntu 18.04 and has least the configuration of the VM.
 
 Preliminary preparations:
 - change directory data 'cd  crawler/data'
