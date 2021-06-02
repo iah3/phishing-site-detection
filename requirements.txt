@@ -12,7 +12,7 @@ pandas==0.23.4
 pymongo==3.7.2
 requests==2.18.4
 six==1.11.0
-urllib3==1.22
+urllib3==1.26.5
 whois==0.7
 xlrd==1.1.0
 matplotlib==3.0.2
