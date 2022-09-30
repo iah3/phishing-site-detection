@@ -4,7 +4,7 @@ bs4==0.0.1
 graphviz==0.10.1
 h5py==2.8.0
 httplib2==0.12.0
-joblib==0.13.2
+joblib==1.2.0
 nltk==3.4
 numpy==1.15.4
 openpyxl==2.5.11
